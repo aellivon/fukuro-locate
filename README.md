@@ -1,4 +1,4 @@
-# fukurolocate
+# fukuro-locate
 Endpoints of a 'location tracking' mobile application
 
 This is a segment of a bigger application called PASTAG:Fukuro; scripts that are made for fun and for personal purposes.
